@@ -24,3 +24,5 @@ python -m bn_spot_trade_bot.main --symbol WALUSDT --order-usdt 100 --target-usdt
 --use-testnet 使用币安现货 Testnet
 
 统计指标输出与持续记录：成功限价卖出次数、偏离阈值触发市价卖出次数、总体盈亏（USDT）。
+
+注意你的文件夹名必须为bn_spot_trade_bot，然后再bn_spot_trade_bot同级目录执行启动命令。
