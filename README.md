@@ -1,5 +1,7 @@
 README.md（要点）
 
+大陆建议上境外服务器，否则可能因网络问题无法正常启用该脚本。
+
 先 pip install -r requirements.txt
 
 设置环境变量或在 config.py 中填 API_KEY/SECRET
